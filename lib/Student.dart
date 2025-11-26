@@ -10,7 +10,7 @@ class Student{
 
    Map<String, dynamic> map(){
      return {
-       'UserName Haseeb': username,
+       'User': username,
        'Password': password,
        'Email' :  email
      };
